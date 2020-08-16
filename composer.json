@@ -1,0 +1,10 @@
+{
+    "name": "abhij89/easysociallogin",
+    "description": "Easy Social Login",
+    "type": "project",
+    "require": {
+        "google/apiclient": "^2.7",
+        "abraham/twitteroauth": "^1.1"
+    },
+    "license": "MIT"
+}
