@@ -36,7 +36,7 @@ Plugin will login the existing users, while will register and sign-in the new us
 
 ## Authors
 
-* **Abhishek Jain** - *Initial work* - [Abhishek](https://github.com/abhij89)
+* **[Abhishek Jain](https://geekabhi.com)** - *Initial work*
 
 ## License
 
