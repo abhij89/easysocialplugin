@@ -32,7 +32,7 @@ Once the composer has installed the required packages and you have updated the k
 <a href="/twitter-login">Sign in with Twitter</a>
 ```
 
-Plugin will login the existing users, while will register and sign-in the new users.
+Plugin will login the existing users, while register and sign-in the new users.
 
 ## Authors
 
