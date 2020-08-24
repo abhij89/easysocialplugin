@@ -11,6 +11,7 @@ Download the plugin. Install and activate it on your WordPress website. Then run
 * Should have composer installed on your server.
 * Knowledge of how to install packages via composer
 * [Google](https://console.cloud.google.com) and [Twitter](https://developer.twitter.com/en/apps) apps on your developers account, and have keys available to use.
+* Two WordPress pages with URL google-login.php and twitter-login.php
 
 
 ### Installing
